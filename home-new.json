@@ -1,0 +1,23 @@
+{
+  "title": "新品上市",
+  "subtitle": "",
+  "items": [
+    {
+      "id_spu": 483,
+      "title": "Farex 高铁米粉125g 6月（口味随机）",
+      "image": "http://oeu4i6fd6.bkt.clouddn.com/images/201608/goods_img/483_G_1470271311047.jpg",
+      "currency": "NZD",
+      "price" : 4.50,
+      "weight": 570
+    },
+    {
+      "id_spu": 1065,
+      "title": "Bellamy's 贝拉米 婴儿米粉 5+ 125克",
+      "image": "http://oeu4i6fd6.bkt.clouddn.com/images/201708/goods_img/1065_G_1501756727365.jpg",
+      "currency": "NZD",
+      "price" : 6.99,
+      "weight": 570
+    }
+  ]
+
+}
